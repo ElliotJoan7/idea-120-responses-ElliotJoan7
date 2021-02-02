@@ -22,4 +22,4 @@ It was get its textual message across in a likely more accessible to a trans *an
 cis audience given the broader opportunity to provide context and analysis. However, 
 the original point of the media wasn't to build understanding across communities and 
 advocate for a marginalized group, it was to build comradery with in a marginalized group
-by using humor to cope with an issue we've likely all encountered. 
+by using humor to cope with an issue we've likely all encountered.  
